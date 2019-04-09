@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Art Styles
-date:   2019-09-04 10:44:00 -0400
+date:   2019-04-09 10:44:00 -0400
 categories: art
 ---
 # Common Art Styles
