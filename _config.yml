@@ -18,4 +18,4 @@ github_username: RMSNews
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
