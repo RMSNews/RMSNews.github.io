@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Opening Ceremony!!!"
 date:   2017-12-09 3:30:00 +0000
 categories: jekyll update
