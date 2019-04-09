@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Interview: Ms.Ward"
+title:  Jokes And Riddles
 date:   2019-04-09 8:45:00 -0400
 categories: jokes and riddles
 ---
