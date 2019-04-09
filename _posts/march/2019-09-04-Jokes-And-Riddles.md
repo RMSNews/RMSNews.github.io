@@ -1,4 +1,4 @@
-#Jokes and Riddles
+# Jokes and Riddles
 A bracelet was stolen at the jewelry store last night. There were 4 suspects in the room when it occurred. One was lying. Who was lying, and who stole the bracelet? There are two possible answers.
 Mary said that Jessica stole the bracelet.
 Eap said that Jessica was telling a lie.
