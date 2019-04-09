@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Jokes And Riddles
-date:   2019-04-09 10:06:00 -0400
+date:   2019-09-04 10:06:00 -0400
 categories: jokes and riddles
 ---
 # Jokes and Riddles
