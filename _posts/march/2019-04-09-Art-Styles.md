@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Art Styles
+date:   2019-09-04 10:44:00 -0400
+categories: art
+---
 # Common Art Styles
 
   Artists share their feelings and life stories through their art. Although every artist’s work is different, there are plenty of art styles that artists go by in this profession. Here, I will explain how to decipher different art styles and movements and inspire you to create your own art using these art styles!
