@@ -4,7 +4,7 @@
 * Eap said that Jessica was telling a lie.
 * Jessica said that Eap stole the bracelet.
 * Mark said he didn’t steal the bracelet.
-“Eap lied, she stole the bracelet, or Jessica lied, she stole the bracelet.”
+ “Eap lied, she stole the bracelet, or Jessica lied, she stole the bracelet.”
 2. What do you call a man with no body and no noes???
 “Nobody knows”     
 3. What has five eyes but cannot see.
