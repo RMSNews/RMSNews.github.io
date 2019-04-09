@@ -2,7 +2,7 @@
 layout: default
 title:  "State Of The Meme 2019"
 date:   2019-09-04 16:49:00 -0400
-categories: interview
+categories: memes
 ---
 # State Of The Meme 2019
 
