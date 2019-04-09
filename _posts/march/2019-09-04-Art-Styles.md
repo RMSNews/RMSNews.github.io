@@ -14,4 +14,4 @@ categories: art
 
   Constructionism is exactly what it sounds like, construction. It is an art theory that states that artists, especially architects, should use industrial materials like steel, glass, and plastic to construct an art piece that serves a purpose in society. Vladimir Tatlin discovered this art movement while admiring geometric construction from people like Picasso.
 
-Information Source: Brittanica https://www.britannica.com/list/10-modernist-art-movements
+Information Source: [Brittanica](https://www.britannica.com/list/10-modernist-art-movements)
