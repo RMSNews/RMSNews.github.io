@@ -41,11 +41,11 @@ categories: jokes and riddles
 
 “You make a ladder and climb out the ceiling”
 
-9. What room do ghosts avoid? 
+9. What room do ghosts avoid?
 
-“the living room”
+“The living room”
 
-10. what haves many keys but cant open a single door. 
+10. what haves many keys but cant open a single door.
 
 “a piano”
 
@@ -53,13 +53,13 @@ categories: jokes and riddles
 
 “You pull the words out of his mouth!”
 
-12.what is more useful when it’s broken? 
+12.what is more useful when it’s broken?
 
-“An egg” 
+“An egg”
 
-13. Before mount everest was discovered, what was the tallest mountain?
+13. Before Mount Everest was discovered, what was the tallest mountain?
 
-“mount everest”
+“Mount Everest”
 
 14. Which is the largest room in the world?
 
@@ -71,7 +71,7 @@ categories: jokes and riddles
 
 16. What is the worst vegetable to have on a ship?
 
-“a leek”
+“A leek”
 
 17. Why weren't the tennis players allowed in the restaurant?
 
