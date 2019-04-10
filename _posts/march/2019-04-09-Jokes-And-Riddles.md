@@ -6,14 +6,14 @@ categories: jokes and riddles
 ---
 # Jokes and Riddles
 1. A bracelet was stolen at the jewelry store last night. There were 4 suspects in the room when it occurred. One was lying. Who was lying, and who stole the bracelet? There are two possible answers.
-* Mary said that Jessica stole the bracelet.
-* Eap said that Jessica was telling a lie.
-* Jessica said that Eap stole the bracelet.
-* Mark said he didn’t steal the bracelet.
+  * Mary said that Jessica stole the bracelet.
+  * Eap said that Jessica was telling a lie.
+  * Jessica said that Eap stole the bracelet.
+  * Mark said he didn’t steal the bracelet.
 
 “Eap lied, she stole the bracelet, or Jessica lied, she stole the bracelet.”
 
-2. What do you call a man with no body and no noes???
+2. What do you call a man with no body and no nose???
 
 “Nobody knows”     
 
