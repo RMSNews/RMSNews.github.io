@@ -35,7 +35,7 @@ categories: jokes and riddles
 
 ## 7. What comes once in a minute, twice in a moment, but never in a thousand years?
 
-### “the letter M”
+### “The letter M”
 
 ## 8. You are stuck in a room with no light, no windows, and no doors. The walls are very strong, so you can not break them. You only have a pile of nails and some wood. How do you leave?
 
@@ -47,7 +47,7 @@ categories: jokes and riddles
 
 ## 10. what haves many keys but cant open a single door.
 
-### “a piano”
+### “A piano”
 
 ## 11. What do you do if a dog chews a dictionary?
 
