@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "State Of The Meme 2019"
+date:   2019-04-09 16:49:00 -0400
+categories: memes
+---
 # State Of The Meme 2019
 
 ## Memes have gradually evolved over the years. SotM (State Of The Meme) is your news source on the evolution.
