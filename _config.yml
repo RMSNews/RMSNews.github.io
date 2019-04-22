@@ -19,3 +19,6 @@ github_username: RMSNews
 markdown: CommonMarkGhPages
 
 theme: jekyll-theme-architect
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
