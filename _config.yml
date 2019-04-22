@@ -16,6 +16,6 @@ twitter_username:
 github_username: RMSNews
 
 # Build settings
-markdown: kramdown
+markdown: CommonMarkGhPages
 
 theme: jekyll-theme-architect
