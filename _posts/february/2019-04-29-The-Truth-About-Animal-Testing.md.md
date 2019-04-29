@@ -9,20 +9,12 @@ When an animal is tested, they may be exposed to harmful radiation, and some are
 Animal testing = Terrible!!!!!
 
   
+|Pros|Cons|
+|--|--|
+|Helps researchers to find drugs and treatments.|It burns, cripples, and poisons tons of animals each year.|
+|It improves human health.|They know that it is likely to cause pain and suffering but do it anyway.|
+|Helps make sure that drugs are safe for human use.||
 
-Pros
-
-Cons
-
-Helps researchers to find drugs and treatments.
-
-It burns, cripples, and poisons tons of animals each year.
-
-It improves human health .
-
-They know that it is likely to cause pain and suffering but do it anyway.
-
-Helps make sure that drugs are safe for human use.
 
 They are put in situations to make them depressed just to see the effect
 
@@ -58,5 +50,5 @@ Now, to those people who agree that animal testing is not the best thing, then h
 
 Even now, animals are being hurt in many different ways. Even by just making a small donation, you could be saving many precious animal lives!!!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MDgzOTMxXX0=
+eyJoaXN0b3J5IjpbLTIwODQ2ODUwMDldfQ==
 -->
