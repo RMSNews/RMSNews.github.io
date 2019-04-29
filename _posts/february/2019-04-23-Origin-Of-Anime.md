@@ -10,9 +10,9 @@ categories: anime
 
 In 1917, the idea of Anime was born, starting with Otogi Manga Calendar as the first ever anime show. People in Japan were loving this style, and people started making new versions for different languages in 1958. The style changed over time, but the overall concept stayed the same. Soon, people worldwide were watching shows such as Sword Art Online and My Neighbor Totoro.
 
-> Written with [StackEdit](https://stackedit.io/).
+*By Claire*
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTk2NzI1MjI5OV19
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMzAwMjEzMzUwXX0=
 
 -->
