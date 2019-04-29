@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Origin of anime
+title:  Origin Of Anime
 date:   2019-04-29 08:34:00 -0400
 categories: anime
 ---
@@ -13,6 +13,6 @@ In 1917, the idea of Anime was born, starting with Otogi Manga Calendar as the f
 *By Claire*
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTkzMzE0MDkzNl19
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTU3NzM0ODU2XX0=
 
 -->
