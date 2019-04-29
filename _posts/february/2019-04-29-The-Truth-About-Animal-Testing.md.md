@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Truth About Animal Testing
+title:  The Truth About Animal Testing
 date:   2019-04-29 08:41:00 -0400
 categories: Animal Rights
 ---
@@ -37,5 +37,5 @@ Now, to those people who agree that animal testing is not the best thing, then h
 
 Even now, animals are being hurt in many different ways. Even by just making a small donation, you could be saving many precious animal lives!!!!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTk5MzA2MF19
+eyJoaXN0b3J5IjpbLTE4NzM4NjczMV19
 -->
